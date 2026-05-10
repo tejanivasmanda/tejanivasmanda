@@ -20,7 +20,7 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name: "Teja Nivas Manda"
+name: "Manda Teja Nivas"
 location: "Phagwara, Punjab, India 🇮🇳"
 education: "B.Tech Computer Science @ Lovely Professional University (2022–2026)"
 role: "Cybersecurity Enthusiast | Aspiring SOC Analyst"
